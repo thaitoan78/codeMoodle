@@ -1,0 +1,213 @@
+// *********************height header************************************
+    #page-header .pb-3 {
+        padding-bottom: .5rem !important;
+    }
+    div#page-content {
+        padding-top: .5rem;
+    }
+    div#learningcontent {
+        padding-top: 0rem !important;
+    }
+    .customimage {
+        height: 259px !important;
+    }
+    #my-index-elo-card,#site-index-elo-card,#course-view-eloflexsections-elo-card, #report-progress-index-elo-card, 
+    #report-eloprogress-index-elo-card, #user-edit-elo-card,
+    #grade-report-overview-index-elo-card, #grade-edit-tree-index-elo-card,
+    #course-management-elo-card, #admin-tool-lpmigrate-frameworks-elo-card,
+    #admin-tool-lpimportcsv-index-elo-card, #admin-tool-lpimportcsv-export-elo-card,
+    #admin-tool-lp-competencyframeworks-elo-card, #admin-tool-lp-learningplans-elo-card,
+    #badges-index-elo-card, #badges-newbadge-elo-card, #admin-tool-dataprivacy-datarequests-elo-card,
+    #admin-tool-dataprivacy-dataregistry-elo-card, #admin-tool-dataprivacy-pluginregistry-elo-card,
+    #course-editcategory-elo-card, #backup-restorefile-elo-card,
+    #admin-grade-edit-letter-index-elo-card, #mod-forum-index-elo-card, #course-resources-elo-card, #group-index-elo-card,
+    #report-completion-index-elo-card, #report-participation-index-elo-card,
+    #report-outline-index-elo-card, #report-log-index-elo-card, #report-loglive-index-elo-card,
+    #report-outline-index-elo-card, #question-edit-elo-card, #mod-quiz-index-elo-card,
+    #course-edit-elo-card, #course-completion-elo-card, #admin-tool-lp-coursecompetencies-elo-card,
+    #course-admin-elo-card, #grade-edit-letter-index-elo-card, #grade-export-ods-index-elo-card,
+    #grade-report-user-index-elo-card, #grade-edit-scale-index-elo-card,
+    #grade-import-csv-index-elo-card, #grade-edit-settings-index-elo-card ,
+    #grade-report-grader-preferences-elo-card, #grade-export-txt-index-elo-card,
+    #grade-export-xls-index-elo-card, #grade-export-xml-index-elo-card,
+    #badges-view-elo-card, #login-forgot_password-elo-card,#user-files-elo-card{
+        height: 261px;
+        .btn-secondary {
+            color: #fff;
+            background-color: #60a823;
+            border-color: #60a823;
+            -webkit-transition: all 0.4s ease-in-out;
+            -moz-transition: all 0.4s ease-in-out;
+            -ms-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+        }
+    }
+    #admin-theme-index-elo-card, #grade-report-grader-index-elo-card, 
+    #admin-search-elo-card, #admin-setting-manageauths-elo-card,
+    #admin-setting-gradessettings-elo-card, #course-index-elo-card,
+    #calendar-view-elo-card, #admin-setting-frontpagesettings-elo-card ,
+    #course-index-category-elo-card, #admin-tool-customlang-index-elo-card,
+    #admin-roles-manage-elo-card, #admin-setting-optionalsubsystems-elo-card, 
+    #admin-setting-blocksettingmyoverview-elo-card, #admin-tool-customlang-edit-elo-card,
+    #user-profile-elo-card, #admin-setting-logos-elo-card,
+    #admin-setting-navigation-elo-card, #admin-setting-authsettingmanual-elo-card, 
+    #admin-setting-badgesettings-elo-card, #admin-comment-index-elo-card, 
+    #admin-tool-usertours-configure-elo-card, #admin-tool-analytics-index-elo-card, #admin-user-elo-card, 
+    #admin-user-user_bulk-elo-card, #admin-user-editadvanced-elo-card, #admin-cohort-index-elo-card,
+    #admin-tool-uploaduser-index-elo-card, #admin-tool-uploaduser-picture-elo-card,
+    #admin-roles-assign-elo-card, #admin-roles-check-elo-card, #admin-tool-cohortroles-index-elo-card,
+    #admin-tool-capability-index-elo-card, #admin-setting-backupgeneralsettings-elo-card,
+    #admin-setting-importgeneralsettings-elo-card, #admin-setting-automated-elo-card,
+    #admin-setting-gradecategorysettings-elo-card, #admin-setting-gradeitemsettings-elo-card,
+    #admin-grade-edit-scale-index-elo-card, #admin-setting-gradereportgrader-elo-card,
+    #admin-setting-gradereporthistory-elo-card, #admin-setting-gradereportoverview-elo-card,
+    #admin-setting-gradereportuser-elo-card, #admin-setting-qdefaultsetting-elo-card,
+    #admin-setting-qtypesettingmultichoice-elo-card, #admin-report-backups-index-elo-card,
+    #admin-report-courseoverview-index-elo-card, #admin-report-insights-insights-elo-card,
+    #admin-report-log-index-elo-card, #admin-report-loglive-index-elo-card,
+    #admin-report-performance-index-elo-card, #admin-report-security-index-elo-card,
+    #admin-report-stats-index-elo-card, #admin-tool-monitor-managerules-elo-card,
+    #admin-local-mailtest-index-elo-card, #admin-setting-coursecontact-elo-card,
+    #admin-setting-mobilesettings-elo-card, #admin-setting-themesettings-elo-card,
+    #admin-setting-themesettingouelofordson-elo-card, #admin-user-profile-index-elo-card,
+    #admin-registration-index-elo-card, #admin-tool-assignmentupgrade-index-elo-card, 
+    #admin-setting-analyticssettings-elo-card, #admin-setting-competencysettings-elo-card,
+    #admin-setting-locationsettings-elo-card, #admin-setting-langsettings-elo-card,
+    #admin-tool-langimport-index-elo-card, #admin-setting-ipblocker-elo-card,
+    #admin-setting-sitepolicies-elo-card, #admin-setting-httpsecurity-elo-card, 
+    #admin-setting-notifications-elo-card, #admin-setting-userdefaultpreferences-elo-card,
+    #admin-setting-userpolicies-elo-card, #admin-roles-admins-elo-card,
+    #admin-tool-unsuproles-index-elo-card, #admin-setting-privacysettings-elo-card,
+    #admin-setting-policysettings-elo-card, #admin-setting-coursesettings-elo-card,
+    #admin-setting-courserequest-elo-card, #admin-tool-uploadcourse-index-elo-card,
+    #admin-setting-restoregeneralsettings-elo-card,#admin-tool-installaddon-index-elo-card,
+    #admin-plugins-elo-card, #admin-modules-elo-card, #admin-setting-managemodulescommon-elo-card,
+    #admin-setting-modsettingassign-elo-card, #admin-mod-assign-adminmanageplugins-elo-card,
+    #admin-setting-assignsubmission_file-elo-card, #admin-setting-assignsubmission_onlinetext-elo-card,
+    #admin-mod-assign-adminmanageplugins-elo-card, #admin-setting-assignfeedback_comments-elo-card,
+    #admin-setting-assignfeedback_editpdf-elo-card, #admin-setting-assignfeedback_file-elo-card,
+    #admin-setting-assignfeedback_offline-elo-card, #admin-setting-modsettingbigbluebuttonbn-elo-card,
+    #admin-setting-modsettingbook-elo-card, #admin-setting-modsettingchat-elo-card,
+    #admin-setting-modsettingdata-elo-card, #admin-mod-lti-toolconfigure-elo-card,
+    #admin-setting-modsettingfeedback-elo-card,#admin-setting-modsettingresource-elo-card,
+    #admin-setting-modsettingfolder-elo-card, #admin-setting-modsettingforum-elo-card,
+    #admin-setting-modsettingglossary-elo-card, #admin-setting-modsettingimscp-elo-card,
+    #admin-setting-modsettinglabel-elo-card, #admin-setting-modsettinglesson-elo-card,
+    #admin-setting-modsettingpage-elo-card, #admin-setting-modsettingquiz-elo-card,
+    #admin-setting-modsettingresource-elo-card, #admin-setting-modsettingpage-elo-card,
+    #admin-setting-modsettingglossary-elo-card, #admin-setting-modsettingimscp-elo-card,
+    #admin-setting-modsettinglabel-elo-card, #admin-setting-modsettinglesson-elo-card,
+    #admin-setting-modsettingscorm-elo-card, #admin-setting-modsettingurl-elo-card,
+    #admin-setting-modsettingworkshop-elo-card, #admin-tools-elo-card,
+    #admin-setting-tool_recyclebin-elo-card , #admin-setting-manageantiviruses-elo-card,
+    #admin-tool-availabilityconditions-index-elo-cards, #admin-blocks-elo-card,
+    #admin-setting-blocksettingactivity_results-elo-card , #admin-setting-blocksettingmyelostatistic-elo-card,
+    #admin-setting-blocksettingcourse_list-elo-card, #admin-setting-blocksettinghtml-elo-card, 
+    #admin-setting-blocksettingonline_users-elo-card, #admin-setting-blocksettingprogress-elo-card,
+    #admin-setting-blocksettingrss_client-elo-card, #admin-setting-blocksettingsection_links-elo-card,
+    #admin-setting-blocksettingtag_youtube-elo-card, #admin-cache-admin-elo-card,
+    #admin-cache-testperformance-elo-card, #admin-setting-cachestore_apcu_settings-elo-card,
+    #admin-setting-cachestore_memcache_settings-elo-card, #admin-setting-cachestore_memcached_settings-elo-card,
+    #admin-setting-cachestore_mongodb_settings-elo-card, #admin-setting-cachestore_redis_settings-elo-card,
+    #admin-setting-formatsettingsingleactivity-elo-card, #admin-setting-manageformats-elo-card,
+    #admin-setting-managedataformats-elo-card, #admin-setting-managefileconverterplugins-elo-card,
+    #admin-setting-manageenrols-elo-card, #admin-setting-enrolsettingscohort-elo-card,
+    #admin-setting-enrolsettingsdatabase-elo-card, #admin-setting-enrolsettingsguest-elo-card,
+    #admin-setting-enrolsettingsmanual-elo-card, #admin-setting-enrolsettingsself-elo-card,
+    #admin-filters-elo-card, #admin-setting-commonfiltersettings-elo-card, #admin-setting-filtersettingmathjaxloader-elo-card,
+    #admin-setting-filtersettingmediaplugin-elo-card, #admin-setting-managelicenses-elo-card,
+    #admin-localplugins-elo-card, #admin-setting-managelogging-elo-card ,#admin-setting-logsettingstandard-elo-card ,
+    #admin-setting-managemediaplayers-elo-card ,#admin-setting-mediasettingvideojs-elo-card ,#admin-message-elo-card ,
+    #admin-message-defaultoutputs-elo-card ,#admin-setting-messagesettingjabber-elo-card ,#admin-qbehaviours-elo-card ,
+    #admin-qtypes-elo-card ,#admin-reports-elo-card ,#admin-repository-elo-card ,
+    #admin-setting-managerepositoriescommon-elo-card ,
+    #admin-repository-areafiles-elo-card ,#admin-repository-user-elo-card ,
+    #admin-repository-recent-elo-card ,#admin-repository-local-elo-card ,#admin-repository-upload-elo-card ,
+    #admin-repository-url-elo-card ,#admin-repository-wikimedia-elo-card ,#admin-repository-youtube-elo-card ,
+    #admin-setting-manageglobalsearch-elo-card ,#admin-searchareas-elo-card ,
+    #admin-setting-searchsolr-elo-card,#mod-forum-view-elo-card ,#course-search-elo-card,#admin-setting-outgoingmailconfig-elo-card,#admin-setting-messageinbound_mailsettings-elo-card{
+        height: 261px;
+        .btn-secondary {
+            color: #fff;
+            background-color: #60a823;
+            border-color: #60a823;
+            -webkit-transition: all 0.4s ease-in-out;
+            -moz-transition: all 0.4s ease-in-out;
+            -ms-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+        }
+        .flex-wrap {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            padding-right: 10px;
+            padding-bottom: 10px;
+        }
+    }
+    #my-index-elo-card {
+        .flex-wrap {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            padding-right: 10px;
+            padding-bottom: 10px;
+        }
+    }
+	.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.box-header.with-border {
+    border-bottom: 1px solid #f4f4f4;
+}
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+}
+.box-header .box-title {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+}
+.box-header>.box-tools {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+.btn-box-tool {
+    padding: 5px;
+    font-size: 12px;
+    background: transparent;
+    color: #97a0b3;
+}
+#accordion2 {
+    .panel-title a {
+        display: block;
+        position: relative;
+        background: linear-gradient(to bottom, #fefefe, #cdcdcd);
+        text-shadow: 1px 1px 1px #fff; 
+       &:before {
+            content: '\f068';
+            font-family: "FontAwesome";
+            width: 25px;
+            height: 25px;
+            line-height: 25px;
+            font-size: 12px;
+            font-weight: 900;
+            position: absolute;
+            top:0;
+            right: 0;
+       }
+    }
+}
+#accordion2 .panel-title a.collapsed:before { content: '\f067'; } 
+      
+
